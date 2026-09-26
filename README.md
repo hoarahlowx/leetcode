@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1720-decode-xored-array](https://github.com/hoarahlowx/leetcode/tree/master/1720-decode-xored-array) |
+| [1920-build-array-from-permutation](https://github.com/hoarahlowx/leetcode/tree/master/1920-build-array-from-permutation) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/hoarahlowx/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/hoarahlowx/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Bit Manipulation
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/hoarahlowx/leetcode/tree/master/1920-build-array-from-permutation) |
 | [3498-reverse-degree-of-a-string](https://github.com/hoarahlowx/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Graph Theory
 |  |
