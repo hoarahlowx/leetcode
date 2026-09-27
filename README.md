@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/hoarahlowx/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/hoarahlowx/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2235-add-two-integers](https://github.com/hoarahlowx/leetcode/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/hoarahlowx/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/hoarahlowx/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/hoarahlowx/leetcode/tree/master/2469-convert-the-temperature) |
