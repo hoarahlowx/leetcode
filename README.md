@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/hoarahlowx/leetcode/tree/master/0013-roman-to-integer) |
+| [0343-integer-break](https://github.com/hoarahlowx/leetcode/tree/master/0343-integer-break) |
 | [1486-xor-operation-in-an-array](https://github.com/hoarahlowx/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/hoarahlowx/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/hoarahlowx/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/hoarahlowx/leetcode/tree/master/0338-counting-bits) |
+| [0343-integer-break](https://github.com/hoarahlowx/leetcode/tree/master/0343-integer-break) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
