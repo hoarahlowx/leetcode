@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/hoarahlowx/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hoarahlowx/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/hoarahlowx/leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/hoarahlowx/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/hoarahlowx/leetcode/tree/master/0001-two-sum) |
 | [0771-jewels-and-stones](https://github.com/hoarahlowx/leetcode/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/hoarahlowx/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/hoarahlowx/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
