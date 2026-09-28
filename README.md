@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/hoarahlowx/leetcode/tree/master/0338-counting-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/hoarahlowx/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/hoarahlowx/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/hoarahlowx/leetcode/tree/master/1720-decode-xored-array) |
@@ -211,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/hoarahlowx/leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0938-range-sum-of-bst](https://github.com/hoarahlowx/leetcode/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/hoarahlowx/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/hoarahlowx/leetcode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
