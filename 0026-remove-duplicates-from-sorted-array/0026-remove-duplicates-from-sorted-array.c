@@ -9,7 +9,6 @@ int removeDuplicates(int* nums, int numsSize) {
         else{
             l += 1;
             nums[l] = nums[r];
-            
         }
         r += 1;
     }
