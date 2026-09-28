@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hoarahlowx/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/hoarahlowx/leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/hoarahlowx/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/hoarahlowx/leetcode/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/hoarahlowx/leetcode/tree/master/1512-number-of-good-pairs) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hoarahlowx/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/hoarahlowx/leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/hoarahlowx/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/hoarahlowx/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/hoarahlowx/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0786-k-th-smallest-prime-fraction](https://github.com/hoarahlowx/leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/hoarahlowx/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/hoarahlowx/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3467-transform-array-by-parity](https://github.com/hoarahlowx/leetcode/tree/master/3467-transform-array-by-parity) |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/hoarahlowx/leetcode/tree/master/0538-convert-bst-to-greater-tree) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/hoarahlowx/leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0938-range-sum-of-bst](https://github.com/hoarahlowx/leetcode/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/hoarahlowx/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/hoarahlowx/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -218,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/hoarahlowx/leetcode/tree/master/0338-counting-bits) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0786-k-th-smallest-prime-fraction](https://github.com/hoarahlowx/leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 <!---LeetCode Topics End-->
