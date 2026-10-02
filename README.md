@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/hoarahlowx/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/hoarahlowx/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/hoarahlowx/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/hoarahlowx/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1678-goal-parser-interpretation](https://github.com/hoarahlowx/leetcode/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/hoarahlowx/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/hoarahlowx/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/hoarahlowx/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/hoarahlowx/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/hoarahlowx/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/hoarahlowx/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/hoarahlowx/leetcode/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/hoarahlowx/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/hoarahlowx/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/hoarahlowx/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Recursion
 |  |
 | ------- |
