@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/hoarahlowx/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/hoarahlowx/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/hoarahlowx/leetcode/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/hoarahlowx/leetcode/tree/master/0125-valid-palindrome) |
 | [0771-jewels-and-stones](https://github.com/hoarahlowx/leetcode/tree/master/0771-jewels-and-stones) |
 | [1021-remove-outermost-parentheses](https://github.com/hoarahlowx/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/hoarahlowx/leetcode/tree/master/1108-defanging-an-ip-address) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hoarahlowx/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/hoarahlowx/leetcode/tree/master/0125-valid-palindrome) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/hoarahlowx/leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/hoarahlowx/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/hoarahlowx/leetcode/tree/master/2396-strictly-palindromic-number) |
