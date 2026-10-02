@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/hoarahlowx/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/hoarahlowx/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/hoarahlowx/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/hoarahlowx/leetcode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/hoarahlowx/leetcode/tree/master/0125-valid-palindrome) |
 | [0771-jewels-and-stones](https://github.com/hoarahlowx/leetcode/tree/master/0771-jewels-and-stones) |
 | [1021-remove-outermost-parentheses](https://github.com/hoarahlowx/leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/hoarahlowx/leetcode/tree/master/0022-generate-parentheses) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/hoarahlowx/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/hoarahlowx/leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/hoarahlowx/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/hoarahlowx/leetcode/tree/master/0022-generate-parentheses) |
 | [0338-counting-bits](https://github.com/hoarahlowx/leetcode/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/hoarahlowx/leetcode/tree/master/0343-integer-break) |
 ## Heap (Priority Queue)
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hoarahlowx/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/hoarahlowx/leetcode/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/hoarahlowx/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/hoarahlowx/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Recursion
