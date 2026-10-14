@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/hoarahlowx/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/hoarahlowx/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hoarahlowx/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/hoarahlowx/leetcode/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/hoarahlowx/leetcode/tree/master/0136-single-number) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/hoarahlowx/leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/hoarahlowx/leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/hoarahlowx/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/hoarahlowx/leetcode/tree/master/0035-search-insert-position) |
 | [0538-convert-bst-to-greater-tree](https://github.com/hoarahlowx/leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/hoarahlowx/leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0938-range-sum-of-bst](https://github.com/hoarahlowx/leetcode/tree/master/0938-range-sum-of-bst) |
