@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/hoarahlowx/leetcode/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/hoarahlowx/leetcode/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/hoarahlowx/leetcode/tree/master/0338-counting-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/hoarahlowx/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/hoarahlowx/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -310,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/hoarahlowx/leetcode/tree/master/1603-design-parking-system) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/hoarahlowx/leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
