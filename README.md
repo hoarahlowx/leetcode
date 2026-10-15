@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/hoarahlowx/leetcode/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/hoarahlowx/leetcode/tree/master/0136-single-number) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/hoarahlowx/leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0812-largest-triangle-area](https://github.com/hoarahlowx/leetcode/tree/master/0812-largest-triangle-area) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/hoarahlowx/leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hoarahlowx/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/hoarahlowx/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/hoarahlowx/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/hoarahlowx/leetcode/tree/master/0069-sqrtx) |
 | [0343-integer-break](https://github.com/hoarahlowx/leetcode/tree/master/0343-integer-break) |
+| [0812-largest-triangle-area](https://github.com/hoarahlowx/leetcode/tree/master/0812-largest-triangle-area) |
 | [1486-xor-operation-in-an-array](https://github.com/hoarahlowx/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/hoarahlowx/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/hoarahlowx/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -401,4 +403,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/hoarahlowx/leetcode/tree/master/0069-sqrtx) |
+## Geometry
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/hoarahlowx/leetcode/tree/master/0812-largest-triangle-area) |
+## Polygons
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/hoarahlowx/leetcode/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
