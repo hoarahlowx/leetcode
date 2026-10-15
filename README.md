@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/hoarahlowx/leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/hoarahlowx/leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/hoarahlowx/leetcode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/hoarahlowx/leetcode/tree/master/0069-sqrtx) |
 | [0343-integer-break](https://github.com/hoarahlowx/leetcode/tree/master/0343-integer-break) |
 | [1486-xor-operation-in-an-array](https://github.com/hoarahlowx/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/hoarahlowx/leetcode/tree/master/1512-number-of-good-pairs) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/hoarahlowx/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/hoarahlowx/leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/hoarahlowx/leetcode/tree/master/0069-sqrtx) |
 | [0538-convert-bst-to-greater-tree](https://github.com/hoarahlowx/leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/hoarahlowx/leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0938-range-sum-of-bst](https://github.com/hoarahlowx/leetcode/tree/master/0938-range-sum-of-bst) |
@@ -395,4 +397,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/hoarahlowx/leetcode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/hoarahlowx/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
