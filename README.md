@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/hoarahlowx/leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/hoarahlowx/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/hoarahlowx/leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/hoarahlowx/leetcode/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/hoarahlowx/leetcode/tree/master/0338-counting-bits) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/hoarahlowx/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/hoarahlowx/leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/hoarahlowx/leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/hoarahlowx/leetcode/tree/master/0067-add-binary) |
 | [0343-integer-break](https://github.com/hoarahlowx/leetcode/tree/master/0343-integer-break) |
 | [1486-xor-operation-in-an-array](https://github.com/hoarahlowx/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/hoarahlowx/leetcode/tree/master/1512-number-of-good-pairs) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hoarahlowx/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/hoarahlowx/leetcode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/hoarahlowx/leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/hoarahlowx/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/hoarahlowx/leetcode/tree/master/0125-valid-palindrome) |
 | [0771-jewels-and-stones](https://github.com/hoarahlowx/leetcode/tree/master/0771-jewels-and-stones) |
 | [1021-remove-outermost-parentheses](https://github.com/hoarahlowx/leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/hoarahlowx/leetcode/tree/master/0067-add-binary) |
 | [1603-design-parking-system](https://github.com/hoarahlowx/leetcode/tree/master/1603-design-parking-system) |
 | [1920-build-array-from-permutation](https://github.com/hoarahlowx/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/hoarahlowx/leetcode/tree/master/1929-concatenation-of-array) |
