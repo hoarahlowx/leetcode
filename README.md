@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/hoarahlowx/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/hoarahlowx/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/hoarahlowx/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/hoarahlowx/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/hoarahlowx/leetcode/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/hoarahlowx/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/hoarahlowx/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/hoarahlowx/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/hoarahlowx/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/hoarahlowx/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/hoarahlowx/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/hoarahlowx/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/hoarahlowx/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/hoarahlowx/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -366,4 +368,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hoarahlowx/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/hoarahlowx/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/hoarahlowx/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
