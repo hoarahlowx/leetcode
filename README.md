@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/hoarahlowx/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/hoarahlowx/leetcode/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/hoarahlowx/leetcode/tree/master/0136-single-number) |
+| [0228-summary-ranges](https://github.com/hoarahlowx/leetcode/tree/master/0228-summary-ranges) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/hoarahlowx/leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0812-largest-triangle-area](https://github.com/hoarahlowx/leetcode/tree/master/0812-largest-triangle-area) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/hoarahlowx/leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
