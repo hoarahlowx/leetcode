@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/hoarahlowx/leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/hoarahlowx/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/hoarahlowx/leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/hoarahlowx/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/hoarahlowx/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/hoarahlowx/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/hoarahlowx/leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/hoarahlowx/leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hoarahlowx/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/hoarahlowx/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/hoarahlowx/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/hoarahlowx/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3467-transform-array-by-parity](https://github.com/hoarahlowx/leetcode/tree/master/3467-transform-array-by-parity) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/hoarahlowx/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/hoarahlowx/leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0938-range-sum-of-bst](https://github.com/hoarahlowx/leetcode/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/hoarahlowx/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/hoarahlowx/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/hoarahlowx/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Tree
 |  |
