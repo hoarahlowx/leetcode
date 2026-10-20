@@ -40,13 +40,12 @@ class Solution:
                 if agree and pick is None:
                     pick = screen[-1]
                     foot = screen[0]
-                else:
-                    if screen[0] < screen[-1]:
-                        total_agree = False
-                        break
+                elif screen[0] < screen[-1]:
+                    total_agree = False
+                    break
+            
                 if agree and picks[-1] <= foot:
                     picks.append(pick)
-            
                 else:
                     total_agree = False
                     break
