@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/hoarahlowx/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/hoarahlowx/leetcode/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/hoarahlowx/leetcode/tree/master/3838-weighted-word-mapping) |
+| [3886-sum-of-sortable-integers](https://github.com/hoarahlowx/leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/hoarahlowx/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/hoarahlowx/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Bit Manipulation
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/hoarahlowx/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/hoarahlowx/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3783-mirror-distance-of-an-integer](https://github.com/hoarahlowx/leetcode/tree/master/3783-mirror-distance-of-an-integer) |
+| [3886-sum-of-sortable-integers](https://github.com/hoarahlowx/leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3945-digit-frequency-score](https://github.com/hoarahlowx/leetcode/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/hoarahlowx/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/hoarahlowx/leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/hoarahlowx/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/hoarahlowx/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Counting
 |  |
 | ------- |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/hoarahlowx/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/hoarahlowx/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/hoarahlowx/leetcode/tree/master/3731-find-missing-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/hoarahlowx/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Tree
 |  |
 | ------- |
