@@ -18,7 +18,7 @@ class Solution:
         if mn == s[0] or mx == s[-1]:
             return 1
         
-        if mni < len(s) - 1 or mxi > 0 or s[1:] == sorted(s[1:]) or s[:-1] == sorted(s[:-1]):
+        if mni < len(s) - 1 or mxi > 0:
             return 2
         else:
             return 3
