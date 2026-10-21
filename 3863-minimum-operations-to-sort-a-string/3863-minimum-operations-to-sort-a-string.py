@@ -15,9 +15,9 @@ class Solution:
             if s[i] >= mx:
                 mx = s[i]
                 mxi = i
+
         if mn == s[0] or mx == s[-1]:
             return 1
-        
         if mni < len(s) - 1 or mxi > 0:
             return 2
         else:
