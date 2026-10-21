@@ -1,24 +1,14 @@
 class Solution:
     def minOperations(self, s: str) -> int:
-        s = list(s)
-        if len(s) == 2 and sorted(s) != s:
-            return -1
-        elif sorted(s) == s:
+        n = len(s)
+        mx, mn = max(s), min(s)
+        if all(a <= b for a, b in zip(s, s[1:])):
             return 0
-
-        mn, mx = s[0], s[0]
-        mni, mxi = 0, 0
-        for i in range(1, len(s)):
-            if s[i] < mn:
-                mn = s[i]
-                mni = i
-            if s[i] >= mx:
-                mx = s[i]
-                mxi = i
-
-        if mn == s[0] or mx == s[-1]:
+        if n == 2:
+            return -1
+        if s[0] == mn or s[-1] == mx:
             return 1
-        if mni < len(s) - 1 or mxi > 0:
-            return 2
-        else:
-            return 3
+        for i in range(1, n - 1):
+            if s[i] == mn or s[i] == mx:
+                return 2
+        return 3
